@@ -23,7 +23,7 @@ public class PlaceDetailActivity extends AppCompatActivity {
     TextView txtName, txtAddress, txtPhone, txtRating, txtWebsite, txtOpenNow;
 
     String placeId;
-    String API_KEY = "AIzaSyDr64tr-Y3YopYDi7PmbUou96Q0o3wSYlI";
+    String API_KEY = "YOUR_API_KEY";
 
     double lat = 0, lng = 0; // for navigation
 
